@@ -111,7 +111,7 @@ input {
 }
 
 input:checked {
-  border: 1px solid #A3E635;
+  border: 1px solid #df2290;
 }
 
 input:checked:before {
@@ -120,14 +120,14 @@ input:checked:before {
   height: 10px;
 
   
-  background-color: #A3E635;
+  background-color: #df2290;
   border-radius: 50px;
 
 }
 
 #acertos {
   text-align: center;
-  background-color: #A3E635;
+  background-color: #df2290;
 
   position: fixed;
   bottom:0;
